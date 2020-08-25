@@ -1,10 +1,8 @@
 # UnityProceduralSkybox
   
-[文章](https://llapuras.top/%E6%97%A5%E5%A4%9C%E5%BE%AA%E7%8E%AF%E5%A4%A9%E7%A9%BA%E7%90%83/)
-
 ![](https://github.com/llapuras/UnityProceduralSkybox/blob/master/sample.gif)
 
-Unity日夜循环天空球。
+Unity日夜循环天空球。[文章](https://llapuras.top/%E6%97%A5%E5%A4%9C%E5%BE%AA%E7%8E%AF%E5%A4%A9%E7%A9%BA%E7%90%83/)
 
 **时间**
 - 可选现实时间同步模式，
